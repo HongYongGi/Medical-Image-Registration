@@ -13,8 +13,7 @@ CT_Registration study
 ## Non-rigid Medical Image Registration using Physics-informed Neural Networks (2023. 01. 20)
 * Paper : https://arxiv.org/pdf/2302.10343v1.pdf
 * Code  : https://github.com/ZheMin-1992/Registration_PINNs
-![image](https://github.com/HongYongGi/Medical-Image-Registration/assets/39263586/1ae9636e-4a08-43ad-99ea-9a4c4e179717)
-
+![image](https://github.com/HongYongGi/Medical-Image-Registration/assets/39263586/fe998e24-e6de-4932-823b-009458b502d7)
 
 
 ## 
